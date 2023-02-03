@@ -1,0 +1,13 @@
+{
+    "name": "Point-E",
+    "category": "Multimodal",
+    "example_input": {
+        "prompt": "a dog",
+        "image": "https://i.imgur.com/4y2J7Zm.jpg"
+    },
+    "example_output": {
+        "ply": "cGx5CmZvcm1hdCBiaW5hcnlfbGl0dGxlX2VuZGlhbiAxLjAKZWxlbWVudCB2ZXJ0ZXggOTIwMTEzCnByb3BlcnR5IGZsb2F0IHgK",
+        "glb": "Z2xURgIAAABU8DACIAQAAEpTT057InNjZW5lIjowLCJzY2VuZXMiOlt7Im5vZGVzIjpbMF19XSwiYXNzZXQiOnsidmVyc2lvbiI6"
+    },
+    "version": "1"
+  }
